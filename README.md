@@ -1,15 +1,23 @@
 Schoo「Git超入門」練習用のリポジトリです。
 
-Gitの詳しい使い方はこちらの書籍で解説しています。
-- [わかばちゃんと学ぶGit使い方入門] （https://www.amazon.co.jp/dp/B071D4D6XX/）
-8/20
+### 🌱「マンガ＋実践」が30個！ Amazon開発技法カテゴリ1位
+[[![Image from Gyazo](https://i.gyazo.com/0465458c28f3cd2b39774b75f7504b32.png)](https://gyazo.com/0465458c28f3cd2b39774b75f7504b32)](https://amzn.to/2GgQCox)
+
+-  [わかばちゃんと学ぶGit使い方入門] （https://amzn.to/2GgQCox）
+
+#### カスタマーレビューより
+[![Image from Gyazo](https://i.gyazo.com/3be55bf343bd016b8f4c46f04627a938.png)](https://gyazo.com/3be55bf343bd016b8f4c46f04627a938)
+
+[![Image from Gyazo](https://i.gyazo.com/bbf1dc4c34ef81c866d941d8c25e7806.png)](https://gyazo.com/bbf1dc4c34ef81c866d941d8c25e7806)
+
+Amazonで序盤を試し読みする→ [わかばちゃんと学ぶGit使い方入門] （https://amzn.to/2GgQCox）
 
 ### 🌱わかばちゃん、今度はGoogleアナリティクスに挑戦！
 大好評「わかばちゃんと学ぶ」シリーズの3作目が発売中！
 
-[ ![わかばちゃんと学ぶGoogleアナリティクス](https://gyazo.com/ea1c0aaeeb787405a7e5b032c51d09e8.png)
+[[ ![わかばちゃんと学ぶGoogleアナリティクス](https://gyazo.com/ea1c0aaeeb787405a7e5b032c51d09e8.png)](https://goo.gl/wU26Pp)
 
-わかばちゃんと学ぶGoogleアナリティクス](https://goo.gl/wU26Pp)  
+- [わかばちゃんと学ぶGoogleアナリティクス](https://goo.gl/wU26Pp)  
 
  【あらすじ】 インターンシップ先のWeb企業で、大量の在庫を売り切ってほしいと頼まれたわかばちゃん。 アクセス解析ツール「Googleアナリティクス」を駆使して、ダメダメ部署を内側から変革せよ！
 
