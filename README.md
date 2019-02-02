@@ -21,6 +21,10 @@ Amazonで序盤を試し読みする→ <a href="https://amzn.to/2GgQCox">わか
 
  【あらすじ】 インターンシップ先のWeb企業で、大量の在庫を売り切ってほしいと頼まれたわかばちゃん。 アクセス解析ツール「Googleアナリティクス」を駆使して、ダメダメ部署を内側から変革せよ！
 
+### マンガでわかる技術書いろいろ
+<a href="https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6-Web%E3%82%B5%E3%82%A4%E3%83%88%E5%88%B6%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9C%AC-%E6%B9%8A%E5%B7%9D%E3%81%82%E3%81%84-ebook/dp/B01L8CANVO/ref=as_li_ss_il?_encoding=UTF8&qid=&sr=&linkCode=li2&tag=cam51p-22&linkId=143dcaa737e8f713b539ab6d47a784d4&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01L8CANVO&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=cam51p-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=cam51p-22&language=ja_JP&l=li2&o=9&a=B01L8CANVO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E9%81%8B%E7%94%A8%E2%98%86%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%81%8B%E7%94%A8%E3%81%AE%E5%9F%BA%E6%9C%AC-%E6%B2%A2%E6%B8%A1-%E3%81%82%E3%81%BE%E3%81%AD/dp/4863542771/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=cam51p-22&linkId=5159e3ffdb5c3f2d2c4c18a90778a630&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4863542771&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=cam51p-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=cam51p-22&language=ja_JP&l=li2&o=9&a=4863542771" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ### 🌱マンガでわかるUnity：Web連載始まりました
 わかばちゃん、お次はゲーム制作に挑戦！
 こちらからお読みいただけます。
