@@ -1,23 +1,23 @@
 Schoo「Git超入門」練習用のリポジトリです。
 
-### 🌱「マンガ＋実践」が30個！ Amazon開発技法カテゴリ1位
-![Image from Gyazo](https://i.gyazo.com/0465458c28f3cd2b39774b75f7504b32.png)（https://amzn.to/2GgQCox）
+### 🌱「マンガ＋実践」が30個！ Amazon開発技法カテゴリ1位常連
+<a href="https://amzn.to/2GgQCox">![Image from Gyazo](https://i.gyazo.com/0465458c28f3cd2b39774b75f7504b32.png)</a>
 
--  [わかばちゃんと学ぶGit使い方入門]（https://amzn.to/2GgQCox）
+- <a href="https://amzn.to/2GgQCox">わかばちゃんと学ぶGit使い方入門</a>
 
 #### カスタマーレビューより
-![Image from Gyazo](https://i.gyazo.com/3be55bf343bd016b8f4c46f04627a938.png)（https://amzn.to/2GgQCox）
+<a href="https://amzn.to/2GgQCox">![Image from Gyazo](https://i.gyazo.com/3be55bf343bd016b8f4c46f04627a938.png)</a>
 
-![Image from Gyazo](https://i.gyazo.com/bbf1dc4c34ef81c866d941d8c25e7806.png)（https://amzn.to/2GgQCox）
+<a href="https://amzn.to/2GgQCox">![Image from Gyazo](https://i.gyazo.com/bbf1dc4c34ef81c866d941d8c25e7806.png)</a>
 
-Amazonで序盤を試し読みする→ [わかばちゃんと学ぶGit使い方入門]（https://amzn.to/2GgQCox）
+Amazonで序盤を試し読みする→ <a href="https://amzn.to/2GgQCox">わかばちゃんと学ぶGit使い方入門]</a>
 
 ### 🌱わかばちゃん、今度はGoogleアナリティクスに挑戦！
 大好評「わかばちゃんと学ぶ」シリーズの3作目が発売中！
 
-![わかばちゃんと学ぶGoogleアナリティクス](https://gyazo.com/ea1c0aaeeb787405a7e5b032c51d09e8.png)(https://goo.gl/wU26Pp)
+<a href="https://goo.gl/wU26Pp">![わかばちゃんと学ぶGoogleアナリティクス](https://gyazo.com/ea1c0aaeeb787405a7e5b032c51d09e8.png)</a>
 
-- [わかばちゃんと学ぶGoogleアナリティクス](https://goo.gl/wU26Pp)  
+- <a href="https://goo.gl/wU26Pp">わかばちゃんと学ぶGoogleアナリティクス</a>
 
  【あらすじ】 インターンシップ先のWeb企業で、大量の在庫を売り切ってほしいと頼まれたわかばちゃん。 アクセス解析ツール「Googleアナリティクス」を駆使して、ダメダメ部署を内側から変革せよ！
 
