@@ -54,3 +54,5 @@ Tech界隈ならちょっとニヤッとするようなネタも収録してい�
 - マンガでわかるDocker ツイッターアカウント： https://twitter.com/webdesignmanga
 
 2/25
+# schoo 練習用レポジトリ
+8/20.
