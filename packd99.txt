@@ -1,6 +1,4 @@
 I'm packd99!
 
 Hello Github!
-
-Git clone by CLI
-push and pull at 2019/9/6
+My favorite food is ramen!!
