@@ -53,4 +53,4 @@ Tech界隈ならちょっとニヤッとするようなネタも収録してい�
 - 湊川あい ツイッターアカウント： https://twitter.com/llminatoll
 - マンガでわかるDocker ツイッターアカウント： https://twitter.com/webdesignmanga
 
-4/20
+4/20(月)
