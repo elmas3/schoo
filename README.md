@@ -54,4 +54,4 @@ Tech界隈ならちょっとニヤッとするようなネタも収録してい�
 - マンガでわかるDocker ツイッターアカウント： https://twitter.com/webdesignmanga
 
 2/25
-11/10
+11/10　火曜日
