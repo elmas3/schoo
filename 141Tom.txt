@@ -5,5 +5,3 @@ Hello, I'm 141Tom.
 Goodbye.
 
 2023/06/13作成
-
-sakana.txtを追加しました。
